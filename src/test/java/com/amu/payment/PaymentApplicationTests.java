@@ -1,4 +1,4 @@
-package com.amu.ecommerce;
+package com.amu.payment;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.amu.ecommerce.entities;
+package com.amu.payment.entities;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
